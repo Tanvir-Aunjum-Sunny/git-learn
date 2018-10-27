@@ -2,3 +2,4 @@ changes 1
 changes by enum
 changes by enum 2
 changes by enum 3
+changes 3
